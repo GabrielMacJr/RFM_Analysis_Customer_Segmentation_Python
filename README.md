@@ -33,3 +33,6 @@ you have a valuable returning customer with the potential of becoming a brand lo
 However, if a customers' recent purchases are at a low price point, perhaps cross-selling may help increase their spending.
   </li>
 </ol>
+<br></br>
+<p align = "center"> Click to see RFM Analysis<br>
+https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb</br></p>
