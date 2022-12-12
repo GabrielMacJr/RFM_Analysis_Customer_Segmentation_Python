@@ -1,7 +1,7 @@
 # RFM Analysis in Python
 
 <p align = "center">
-<img width = 450px height = 450px src = "https://user-images.githubusercontent.com/110753469/206967900-c0404761-569c-439b-86ed-8ab2e7097e94.png">
+<img width = 400px height = 400px src = "https://user-images.githubusercontent.com/110753469/206967900-c0404761-569c-439b-86ed-8ab2e7097e94.png">
 </p>
 
 
