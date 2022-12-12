@@ -1,7 +1,8 @@
 # RFM Analysis in Python
 
-
-![image](https://user-images.githubusercontent.com/110753469/206967900-c0404761-569c-439b-86ed-8ab2e7097e94.png)
+<p align = "center">
+<img width = 450px height = 450px src = "https://user-images.githubusercontent.com/110753469/206967900-c0404761-569c-439b-86ed-8ab2e7097e94.png">
+</p>
 
 
 # RFM Analysis 
@@ -21,12 +22,12 @@ However, if the customer hasn't made a purchase in a while, you may need to brin
   </li>
   
   <li>
-    <b>Frequency< : How often a customer makes a purchase.
+    <b>Frequency</b> : How often a customer makes a purchase.
 If they purchase often, you will know their spending habits and preferences.
 If they make one purchase and never return, they could be a good candidate for a customer satisfaction survey.
   </li>
   <li>
-Monetary Value : How much money a customer spends on purchases
+    <b>Monetary Value</b> : How much money a customer spends on purchases
 All purchases are valuable. But if a customer has many recent purchases at a high price point,
 you have a valuable returning customer with the potential of becoming a brand loyalist.
 However, if a customers' recent purchases are at a low price point, perhaps cross-selling may help increase their spending.
