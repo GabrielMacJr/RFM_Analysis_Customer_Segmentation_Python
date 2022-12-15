@@ -35,5 +35,5 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
   </li>
 </ol>
 
-<p align = "center"> <b>Click to see RFM Analysis</b><br>
-https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb</br></p>
+# [Click to see RFM Analysis in Jupyter Notebook](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
+
