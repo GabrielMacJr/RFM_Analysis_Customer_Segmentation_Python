@@ -5,9 +5,9 @@
 </p>
 
 # Objective
-Perform RFM Segmentation Analysis 
+Perform RFM Segmentation Analysis on sales data 
 
-# RFM Analysis 
+# RFM Analysis : [Click to see RFM Analysis in Jupyter Notebook](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
 RFM is a marketing technique used to group and analyze the value of customers based on three key characteristics: 
 <ul>
   <li><b>Recency</b></li>
@@ -36,5 +36,5 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
   </li>
 </ol>
 
-# [Click to see RFM Analysis in Jupyter Notebook](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
+
 
