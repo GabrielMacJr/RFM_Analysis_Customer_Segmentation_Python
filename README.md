@@ -4,7 +4,8 @@
 <img width = 400px height = 400px src = "https://user-images.githubusercontent.com/110753469/206972523-8d562d6d-2ffb-491a-a37a-793944ba6400.png">
 </p>
 
-
+# Objective
+Perform RFM Segmentation Analysis 
 
 # RFM Analysis 
 RFM is a marketing technique used to group and analyze the value of customers based on three key characteristics: 
