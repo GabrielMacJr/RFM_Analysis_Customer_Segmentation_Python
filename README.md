@@ -7,7 +7,7 @@
 # Objective
 Perform RFM Segmentation Analysis on sales data 
 
-# RFM Analysis and Results: [Click Here](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
+# What is RFM Analysis? 
 RFM is a marketing technique used to group and analyze the value of customers based on three key characteristics: 
 <ul>
   <li><b>Recency</b></li>
@@ -36,5 +36,5 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
   </li>
 </ol>
 
-
+# RFM Analysis Jupyter Notebook Results: [Click Here](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
 
