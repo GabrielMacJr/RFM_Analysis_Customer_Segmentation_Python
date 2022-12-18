@@ -36,5 +36,16 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
   </li>
 </ol>
 
+# Procedure to complete RFM Analysis
+
+<ol>
+<li>Data Cleaning and Preparation</li>
+<li>Visualize Outliers</li>
+<li>Filter Outliers</li>
+<li>Standardization</li>
+<li>K-Means Clustering Algorithm (Elbow Method and Silhouette Score)</li>
+<li>Segmentation RFM Model</li>
+<li>Interpretation of Segments</li>
+</ol>
 # RFM Analysis Jupyter Notebook Results: [Click Here](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
 
