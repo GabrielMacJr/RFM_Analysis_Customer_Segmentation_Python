@@ -48,7 +48,7 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
 <li>Interpretation of Segments</li>
 </ol>
 
-# Complete Detailed RFM Analysis in Jupyter Notebook :  
+# Complete and Detailed RFM Analysis in Jupyter Notebook :  
 
-[Click Here to see the RFM Analysis](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
+[Click Here to see the complete and detailed RFM Analysis](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
 
