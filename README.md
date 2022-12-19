@@ -50,5 +50,5 @@ However, if a customers' recent purchases are at a low price point, perhaps cros
 
 # Complete and Detailed RFM Analysis in Jupyter Notebook :  
 
-[Click Here to see the complete and detailed RFM Analysis](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
+[Click Here to see the complete RFM Analysis](https://github.com/GabrielMacJr/RFM_Analysis_Jupyter_Notebook/blob/master/RFM_Analysis.ipynb)
 
